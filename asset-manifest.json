@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Food-Restro/static/css/main.4d8de01f.css",
-    "main.js": "/Food-Restro/static/js/main.71ca1327.js",
+    "main.js": "/Food-Restro/static/js/main.c945504a.js",
     "static/js/787.a132012a.chunk.js": "/Food-Restro/static/js/787.a132012a.chunk.js",
     "index.html": "/Food-Restro/index.html",
     "main.4d8de01f.css.map": "/Food-Restro/static/css/main.4d8de01f.css.map",
-    "main.71ca1327.js.map": "/Food-Restro/static/js/main.71ca1327.js.map",
+    "main.c945504a.js.map": "/Food-Restro/static/js/main.c945504a.js.map",
     "787.a132012a.chunk.js.map": "/Food-Restro/static/js/787.a132012a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d8de01f.css",
-    "static/js/main.71ca1327.js"
+    "static/js/main.c945504a.js"
   ]
 }
